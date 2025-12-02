@@ -4370,6 +4370,12 @@
 					(unit 1)
 				)
 			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4665,6 +4671,12 @@
 					(unit 1)
 				)
 			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "J3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4731,6 +4743,12 @@
 					(unit 1)
 				)
 			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4761,7 +4779,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 199.39 113.03 0)
 			(effects
 				(font
@@ -4797,6 +4815,12 @@
 		(instances
 			(project "Display Adapters"
 				(path "/d30881c9-2e5b-4846-8f12-42ee4af8a2cb/fcc0638b-2731-4e5e-82a0-257b53736c6a"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
 					(reference "C2")
 					(unit 1)
 				)
@@ -4867,6 +4891,12 @@
 					(unit 1)
 				)
 			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4897,7 +4927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 185.42 95.25 0)
 			(effects
 				(font
@@ -4934,6 +4964,12 @@
 			(project "Display Adapters"
 				(path "/d30881c9-2e5b-4846-8f12-42ee4af8a2cb/fcc0638b-2731-4e5e-82a0-257b53736c6a"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -5152,6 +5188,12 @@
 					(unit 1)
 				)
 			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "J1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5219,6 +5261,12 @@
 					(unit 1)
 				)
 			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5282,6 +5330,12 @@
 			(project "Display Adapters"
 				(path "/d30881c9-2e5b-4846-8f12-42ee4af8a2cb/fcc0638b-2731-4e5e-82a0-257b53736c6a"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -5352,6 +5406,12 @@
 					(unit 1)
 				)
 			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5416,6 +5476,12 @@
 			(project "Display Adapters"
 				(path "/d30881c9-2e5b-4846-8f12-42ee4af8a2cb/fcc0638b-2731-4e5e-82a0-257b53736c6a"
 					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -5485,6 +5551,12 @@
 					(unit 1)
 				)
 			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "#PWR0108")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5548,6 +5620,12 @@
 			(project "Display Adapters"
 				(path "/d30881c9-2e5b-4846-8f12-42ee4af8a2cb/fcc0638b-2731-4e5e-82a0-257b53736c6a"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -5816,6 +5894,12 @@
 					(unit 1)
 				)
 			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "J2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5883,6 +5967,18 @@
 					(unit 1)
 				)
 			)
+			(project "sink"
+				(path "/fce918aa-4ffb-4ad3-b88d-35171bd3e360"
+					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
