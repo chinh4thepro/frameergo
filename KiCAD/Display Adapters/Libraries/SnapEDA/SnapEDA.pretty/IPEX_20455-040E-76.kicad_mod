@@ -524,4 +524,15 @@
 		(uuid "aa4532e5-58b7-4cb2-8403-8cbc3e9a26b7")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/Libraries/SnapEDA/20455-040E-76/20455-040E-76.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
 )
